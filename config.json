@@ -1,0 +1,12 @@
+{
+  "port": "8000",
+  "name": "Project Zero",
+  "description": "Project Zero is the only bot you'll need to manage your discord server",
+  "invite": "https://discord.com/api/oauth2/authorize?client_id=1035560829044662283&permissions=93190&scope=bot%20applications.commands",
+  "support": "https://discord.gg/E9t6rwg6su",
+  "pfp": "https://cdn.joshsevero.dev/u/7jO6iK.jpg",
+  "feature1": "Moderation, Moderate your server with ease ",
+  "feature2": "Music, Coming Soon...",
+  "feature3": "Memes, animals, games. (Animals and Games are coming soon)",
+  "feature4": "Coming Soon..."
+}
